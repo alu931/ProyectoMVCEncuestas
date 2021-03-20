@@ -1,0 +1,66 @@
+﻿@model List<Entity.EmpleadoEncuestaEntity>
+
+
+
+
+<div class="container-fluid">
+    <h1>Empleados Encuesta</h1>
+    <div class="row">
+
+        <div class="col-3">
+            <button type="button" class="btn btn-outline-primary" onclick="ClickNew()"><i class='bx bx-add-to-queue'></i></button>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-12">
+            <table id="GridEmpleadoEncuesta" class="table table-dark table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>Nombre Empleado</th>
+                        <th>Fecha Nacimiento</th>
+                        <th>Estado Civil</th>
+                        <th>Lenguaje Nativo</th>
+                        <th>Carrera</th>
+                        <th>Provincia</th>
+                        <th>Canton</th>
+                        <th>Distrito</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Empleado.NombreEmpleado</td>
+                            <td>@item.FechaNacimiento</td>
+                            <td>@item.EstadoCivil</td>
+                            <td>@item.LenguajeNativo</td>
+                            <td>@item.Carrera</td>
+                            <td>@item.Provincia.Descripcion</td>
+                            <td>@item.Canton.Descripcion</td>
+                            <td>@item.Distrito.Descripcion</td>
+                        </tr>
+                    }
+                </tbody>
+
+
+            </table>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<div id="root">
+
+</div>
+
+
+
+
+@section scripts{
+
+    <script src="~/Scripts/EmpleadoEncuesta/Index.js"></script>
+}

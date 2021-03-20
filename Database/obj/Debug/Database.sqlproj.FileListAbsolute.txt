@@ -1,0 +1,10 @@
+C:\Users\Darka7\source\repos\WebMvcLab\Database\bin\Debug\Database.dacpac
+C:\Users\Darka7\source\repos\WebMvcLab\Database\bin\Debug\Database.dll
+C:\Users\Darka7\source\repos\WebMvcLab\Database\bin\Debug\Database.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\Database\obj\Debug\Database.dll
+C:\Users\Darka7\source\repos\WebMvcLab\Database\obj\Debug\Database.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\Darka7\source\repos\WebMvcLab\Database\obj\Debug\Model.xml
+C:\Users\Darka7\source\repos\WebMvcLab\Database\obj\Debug\refactor.xml
+C:\Users\Darka7\source\repos\WebMvcLab\Database\obj\Debug\postdeploy.sql
+C:\Users\Darka7\source\repos\WebMvcLab\Database\obj\Debug\predeploy.sql

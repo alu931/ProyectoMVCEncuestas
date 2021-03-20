@@ -1,0 +1,164 @@
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\WebMvcLab.dll.config
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\WebMvcLab.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\WebMvcLab.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\csc.exe
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\csc.exe.config
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\csc.rsp
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\csi.exe
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\csi.exe.config
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\csi.rsp
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\vbc.exe
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\vbc.exe.config
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\vbc.rsp
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\VBCSCompiler.exe
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Entity.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Newtonsoft.Json.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Net.Http.Formatting.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Helpers.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Http.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Http.WebHost.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Mvc.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Razor.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Razor.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\WBL.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\DataAccess.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Dapper.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Dapper.Mapper.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Entity.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\WBL.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Razor.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Razor.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Helpers.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Mvc.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Newtonsoft.Json.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Net.Http.Formatting.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Http.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Web.Http.WebHost.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\DataAccess.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Dapper.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.csprojAssemblyReference.cache
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.csproj.CoreCompileInputs.cache
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.csproj.CopyComplete
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Buffers.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Memory.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Unity.Abstractions.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Unity.Container.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Unity.Mvc.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\WebActivatorEx.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Unity.Abstractions.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Unity.Container.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Unity.Mvc.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WebMvcLab\bin\Unity.Mvc.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\WebMvcLab.dll.config
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\WebMvcLab.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\WebMvcLab.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\csc.exe
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\csc.exe.config
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\csc.rsp
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\csi.exe
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\csi.exe.config
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\csi.rsp
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.Managed.Core.targets
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Buffers.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Collections.Immutable.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Memory.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Numerics.Vectors.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\vbc.exe
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\vbc.exe.config
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\vbc.rsp
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\VBCSCompiler.exe
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\roslyn\VBCSCompiler.exe.config
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Entity.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Microsoft.Web.Infrastructure.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Newtonsoft.Json.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Net.Http.Formatting.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Threading.Tasks.Extensions.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Helpers.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Http.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Http.WebHost.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Mvc.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Razor.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Deployment.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Razor.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Unity.Abstractions.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Unity.Container.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Unity.Mvc.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\WBL.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\WebActivatorEx.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\DataAccess.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Dapper.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Dapper.Mapper.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Entity.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\WBL.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Newtonsoft.Json.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Threading.Tasks.Extensions.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Unity.Abstractions.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Unity.Container.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Unity.Mvc.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Unity.Mvc.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Razor.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Deployment.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Webpages.Razor.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Helpers.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Mvc.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Net.Http.Formatting.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Http.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\System.Web.Http.WebHost.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\DataAccess.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\bin\Dapper.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.csprojAssemblyReference.cache
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.csproj.CoreCompileInputs.cache
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.csproj.CopyComplete
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WebMvcLab\obj\Debug\WebMvcLab.pdb

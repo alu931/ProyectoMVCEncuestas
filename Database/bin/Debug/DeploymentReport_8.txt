@@ -1,0 +1,36 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[EmpleadoEncuesta]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[EmpleadoEncuesta].[IdEmpleado] on table [dbo].[EmpleadoEncuesta] must be added, but the column has no
+         default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this
+         issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+
+** User actions
+     Table rebuild
+       [dbo].[EmpleadoEncuesta] (Table)
+     Create
+       [dbo].[FK_EmpleadoEncuesta_Empleado] (Foreign Key)
+       [dbo].[CantonLista] (Procedure)
+       [dbo].[DistritoLista] (Procedure)
+       [dbo].[EmpleadoEncuestaInsertar] (Procedure)
+       [dbo].[EmpleadoEncuestaObtener] (Procedure)
+       [dbo].[ProvinciaLista] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_EmpleadoEncuesta_Provincia] (Foreign Key)
+       [dbo].[FK_EmpleadoEncuesta_Canton] (Foreign Key)
+       [dbo].[FK_EmpleadoEncuesta_Distrito] (Foreign Key)
+     Create
+       [dbo].[FK_EmpleadoEncuesta_Provincia] (Foreign Key)
+       [dbo].[FK_EmpleadoEncuesta_Canton] (Foreign Key)
+       [dbo].[FK_EmpleadoEncuesta_Distrito] (Foreign Key)
+
+The column [dbo].[EmpleadoEncuesta].[IdEmpleado] on table [dbo].[EmpleadoEncuesta] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

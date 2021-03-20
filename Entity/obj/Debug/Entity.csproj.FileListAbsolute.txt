@@ -1,0 +1,12 @@
+C:\Users\Darka7\source\repos\WebMvcLab\Entity\bin\Debug\Entity.dll
+C:\Users\Darka7\source\repos\WebMvcLab\Entity\bin\Debug\Entity.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Darka7\source\repos\WebMvcLab\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Darka7\source\repos\WebMvcLab\Entity\obj\Debug\Entity.dll
+C:\Users\Darka7\source\repos\WebMvcLab\Entity\obj\Debug\Entity.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\Entity\bin\Debug\Entity.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\Entity\bin\Debug\Entity.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\Entity\obj\Debug\Entity.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,32 @@
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\WBL.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\WBL.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\DataAccess.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\Entity.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\Dapper.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\Dapper.Mapper.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\DataAccess.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\Entity.pdb
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\bin\Debug\Dapper.xml
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\obj\Debug\WBL.csprojAssemblyReference.cache
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\obj\Debug\WBL.csproj.CoreCompileInputs.cache
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\obj\Debug\WBL.csproj.CopyComplete
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\obj\Debug\WBL.dll
+C:\Users\Darka7\source\repos\WebMvcLab\WBL\obj\Debug\WBL.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\WBL.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\WBL.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\DataAccess.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\Entity.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\System.Data.SqlClient.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\Dapper.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\Dapper.Mapper.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\DataAccess.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\Entity.pdb
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\System.Data.SqlClient.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\bin\Debug\Dapper.xml
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\obj\Debug\WBL.csprojAssemblyReference.cache
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\obj\Debug\WBL.csproj.CoreCompileInputs.cache
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\obj\Debug\WBL.csproj.CopyComplete
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\obj\Debug\WBL.dll
+C:\UTC\Progra 6\Nueva carpeta\WebMvcLab\WBL\obj\Debug\WBL.pdb

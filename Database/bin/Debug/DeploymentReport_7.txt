@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Canton] (Table)
+       [dbo].[Distrito] (Table)
+       [dbo].[EmpleadoEncuesta] (Table)
+       [dbo].[Provincia] (Table)
+       [dbo].[FK_Canton_Provincia] (Foreign Key)
+       [dbo].[FK_Canton_Distrito] (Foreign Key)
+       [dbo].[FK_EmpleadoEncuesta_Provincia] (Foreign Key)
+       [dbo].[FK_EmpleadoEncuesta_Canton] (Foreign Key)
+       [dbo].[FK_EmpleadoEncuesta_Distrito] (Foreign Key)
+
+** Supporting actions

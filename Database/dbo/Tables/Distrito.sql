@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].Distrito
+(
+		IdDistrito INT NOT NULL IDENTITY(1,1) 
+		CONSTRAINT PK_Distrito PRIMARY KEY CLUSTERED(IdDistrito),
+		IdCanton INT NOT NULL 
+		CONSTRAINT FK_Canton_Distrito FOREIGN KEY(IdCanton) REFERENCES dbo.Canton(IdCanton),
+		Descripcion VARCHAR(250),
+)WITH (DATA_COMPRESSION = PAGE)

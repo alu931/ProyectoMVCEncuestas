@@ -1,0 +1,187 @@
+﻿@model WebMvcLab.Models.EmpleadoNuevaEncuesta
+@using Newtonsoft.Json;
+@{
+    var TypeForm = ViewBag.Form as bool?;
+}
+
+<model data-entity="@JsonConvert.SerializeObject(Model.EmpleadoEncuesta)" />
+<div id="NuevoEmpleadoEncuesta" class="container">
+
+
+
+    <div class="row">
+        <div class="col-6">
+
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Nueva Encuesta</h4>
+
+                    <form id="FormEmpleadoEncuesta">
+
+                      
+
+                        <div class="form-floating mb-3 form-group">
+                            <select class="form-select" id="IdEmpleado" name="IdEmpleado" aria-label="Default select example" v-model="model.IdEmpleado" required>
+                                @foreach (var item in Model.ddlEmpleados)
+                                {
+                                    <option value="@item.IdEmpleado">@item.NombreEmpleado</option>
+                                }
+                            </select>
+                            <label for="Empresa"> Empleado</label>
+                        </div>
+
+                        <div class="form-floating mb-3 form-group">
+                            <b-form-datepicker id="FechaNacimiento" name="FechaNacimiento" v-model="model.FechaNacimiento" locale="es"
+                                               :date-format-options="{ day: '2-digit',month: '2-digit',  year: 'numeric' }" required></b-form-datepicker>
+                            <label for="FechaNacimiento"> Fecha Nacimiento</label>
+                        </div>
+
+
+                        <label> Estado Civil</label>
+                        <br />
+                        <div class="form-check form-check-inline form-group">
+                            <input class="form-check-input" type="radio" name="EstadoCivil" id="EstadoCivil1" v-model="model.EstadoCivil" value="Soltero" required>
+                           
+                            <label  for="EstadoCivil1">
+                                Soltero
+                            </label>
+                        </div>
+                        <div class="form-check form-check-inline form-group">
+                            <input class="form-check-input" type="radio" name="EstadoCivil" id="EstadoCivil2" v-model="model.EstadoCivil" value="Casado" required>
+                            <label  for="EstadoCivil2">
+                                Casado
+                            </label>
+                        </div>
+                        <div class="form-check form-check-inline form-group">
+
+                            <input class="form-check-input" type="radio" name="EstadoCivil" id="EstadoCivil3" v-model="model.EstadoCivil" value="Union Libre" required>
+                           <label for="EstadoCivil3">
+                                Union Libre
+                            </label>
+
+                        </div>
+                        <div class="form-check form-check-inline form-group">
+                            <input class="form-check-input" type="radio" name="EstadoCivil" id="EstadoCivil4" v-model="model.EstadoCivil" value="Viudo" required>
+                           <label  for="EstadoCivil4">
+                                Viudo
+                            </label>
+                        </div>
+                        
+
+                        <div class="form-floating mb-3 form-group">
+                            <select class="form-select" id="LenguajeNativo" name="LenguajeNativo" aria-label="Default select example" v-model="model.LenguajeNativo" required>
+
+                                <option value="Español">Español</option>
+                                <option value="Ingles">Ingles</option>
+                                <option value="Frances">Frances</option>
+                                <option value="Mandarin">Mandarin</option>
+                            </select>
+                            <label for="LenguajeNativo"> Lenguaje Nativo</label>
+                        </div>
+
+
+                        <div class="form-check form-group">
+                            <input class="form-check-input" type="checkbox" id="TieneHijos" name="TieneHijos" v-model="model.TieneHijos" />
+                            <label class="form-check-label" for="TieneHijos">
+                                Tiene Hijos?
+                            </label>
+                        </div>
+                        <br />
+                        <div class="form-floating mb-3 form-group" v-if="model.TieneHijos">
+                            <input class="form-control" type="number" name="CantidadHijos" id="CantidadHijos" v-model="model.CantidadHijos" min="0" />
+                            <label for="CantidadHijos">Cuantos hijos tiene?</label>
+                        </div>
+
+                        <div class="form-floating mb-3 form-group" v-if="model.CantidadHijos>0">
+                            <input class="form-control" type="number" name="CantidadHijosMantiene" id="CantidadHijosMantiene" v-model="model.CantidadHijosMantiene"
+                                   :max="model.CantidadHijos" />
+                            <label for="CantidadHijosMantiene">Cuantos hijos mantiene?</label>
+                        </div>
+
+                        <div class="form-check form-group">
+                            <input class="form-check-input" type="checkbox" id="Lee" name="Lee" v-model="model.Lee" />
+                            <label class="form-check-label" for="Lee">
+                                Lee ?
+                            </label>
+                        </div>
+                        <br />
+
+                        <div class="form-check form-group">
+                            <input class="form-check-input" type="checkbox" id="Escribe" name="Escribe" v-model="model.Escribe" />
+                            <label class="form-check-label" for="Escribe">
+                                Escribe ?
+                            </label>
+                        </div>
+                        <br />
+
+                        <div class="form-floating mb-3 form-group">
+                            <select class="form-select" id="LenguajeNativo" name="Carrera" aria-label="Default select example" v-model="model.Carrera" required>
+
+                                <option value="Primaria">Primaria</option>
+                                <option value="Secundaria">Secundaria</option>
+                                <option value="Bachiller">Bachiller</option>
+                                <option value="Bachiller Universitario">Bachiller Universitario</option>
+                                <option value="Lic. Universitario">Lic. Universitario</option>
+                            </select>
+                            <label for="Carrera"> Cual es su ultimo grado academico?</label>
+                        </div>
+
+                        <div class="form-check form-group">
+                            <input class="form-check-input" type="checkbox" id="MantienePersonasAparte" name="MantienePersonasAparte" v-model="model.MantienePersonasAparte"  />
+                            <label class="form-check-label" for="MantienePersonasAparte">
+                                Mantiene personas por aparte?
+                            </label>
+                        </div>
+                        <br />
+                        <div class="form-floating mb-3 form-group" v-if="model.MantienePersonasAparte">
+                            <input class="form-control" type="text" name="DesMantienePersonasAparte" id="DesMantienePersonasAparte" v-model="model.DesMantienePersonasAparte" required />
+                            <label for="DesMantienePersonasAparte">Quienes?</label>
+                        </div>
+
+                        <div class="form-floating mb-3 form-group">
+                            <select class="form-select" id="IdProvincia" name="IdProvincia" v-model="model.IdProvincia" @@change="OnChangeProvincia" required>
+                                @foreach (var item in Model.ddlProvincias)
+                                {
+                                    <option value="@item.IdProvincia">@item.Descripcion</option>
+                                }
+                            </select>
+                            <label for="IdProvincia"> Pronvicia donde vive?</label>
+                        </div>
+
+                        <div class="form-floating mb-3 form-group">
+                            <select class="form-select" id="IdCanton" name="IdCanton" v-model="model.IdCanton" @@change="OnChangeCanton" required>
+                                <option disabled>Sin Seleccionar</option>
+                                <option v-for="item in ddlCanton" :value="item.IdCanton">{{item.Descripcion}}</option>
+                            </select>
+                            <label for="IdCanton"> Canton donde vive?</label>
+                        </div>
+
+                        <div class="form-floating mb-3 form-group">
+                            <select class="form-select" id="IdDistrito" name="IdDistrito" v-model="model.IdDistrito" required>
+                                <option disabled>Sin Seleccionar</option>
+                                <option v-for="item in ddlDistrito" :value="item.IdDistrito">{{item.Descripcion}}</option>
+                            </select>
+                            <label for="IdCanton"> Distrito donde vive?</label>
+                        </div>
+
+                        <br />
+                        <div class="mb-3">
+                            <button type="button" @@click="Save" class="btn btn-outline-primary"><i class='bx bx-save'></i></button>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+@section scripts{
+
+    <script src="~/Scripts/EmpleadoEncuesta/Edit.js"></script>
+    
+
+}
